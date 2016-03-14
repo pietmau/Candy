@@ -1,0 +1,1932 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2016 The New York Times Company.  All Rights Reserved.",
+  "num_results": 809,
+  "results": [
+    {
+      "url": "http://www.nytimes.com/politics/first-draft/2016/03/11/hillary-clinton-lauds-reagans-on-aids-a-backlash-erupts/",
+      "adx_keywords": "Acquired Immune Deficiency Syndrome; Centers for Disease Control and Prevention; Clinton, Hillary Rodham; Kaiser, Charles (1950- ); Kramer, Larry (1935- ); MSNBC; Presidential Election of 2016; Reagan, Nancy; Reagan, Ronald Wilson; Twitter",
+      "column": "First Draft",
+      "section": "U.S.",
+      "byline": "By AMY CHOZICK",
+      "type": "Blog",
+      "title": "Hillary Clinton Lauds Reagans on AIDS. A Backlash Erupts.",
+      "abstract": "Attending Nancy Reagan&#8217;s funeral on Friday, Mrs. Clinton praised her record on H.I.V. and AIDS. After an avalanche of criticism, she quickly apologized, saying she &#8220;misspoke.&#8221;",
+      "published_date": "2016-03-11",
+      "source": "The New York Times",
+      "id": 343,
+      "asset_id": 343,
+      "views": 1,
+      "des_facet": [
+        "ACQUIRED IMMUNE DEFICIENCY SYNDROME",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "CENTERS FOR DISEASE CONTROL AND PREVENTION",
+        "MSNBC",
+        "TWITTER"
+      ],
+      "per_facet": [
+        "CLINTON, HILLARY RODHAM",
+        "KAISER, CHARLES (1950- )",
+        "KRAMER, LARRY (1935- )",
+        "REAGAN, NANCY",
+        "REAGAN, RONALD WILSON"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton at the funeral for Nancy Reagan on Friday at the Ronald Reagan Presidential Library in Simi Valley, Calif.",
+          "copyright": "Jim Wilson/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11firstdraft-hrc/11firstdraft-hrc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/12/us/trump-rally-in-chicago-canceled-after-violent-scuffles.html",
+      "adx_keywords": "Demonstrations, Protests and Riots;Presidential Election of 2016;Police Department (Chicago, Ill);Trump, Donald J;Chicago (Ill)",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MONICA DAVEY and JULIE BOSMAN",
+      "type": "Article",
+      "title": "Donald Trump’s Rally in Chicago Canceled After Violent Scuffles",
+      "abstract": "Protesters and supporters of Donald J. Trump confronted each other, screaming and shoving, at a campaign event Friday that was called off over security concerns.",
+      "published_date": "2016-03-12",
+      "source": "The New York Times",
+      "id": 100000004267676,
+      "asset_id": 100000004267676,
+      "views": 2,
+      "des_facet": [
+        "DEMONSTRATIONS, PROTESTS AND RIOTS",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "POLICE DEPARTMENT (CHICAGO, ILL)"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "CHICAGO (ILL)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of Donald J. Trump faced off with protesters after a scheduled campaign rally in Chicago was called off on Friday.",
+          "copyright": "Charles Rex Arbogast/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 680,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1359,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12CHICAGO8-hp/12CHICAGO8-hp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/13/world/middleeast/to-maintain-supply-of-sex-slaves-isis-pushes-birth-control.html",
+      "adx_keywords": "Islamic State in Iraq and Syria (ISIS);Human Trafficking;Yazidi (Religious Sect);Pregnancy and Childbirth;Women and Girls;Terrorism;Abortion;Sex Crimes;Iraq;Syria;Tal Afar (Iraq)",
+      "column": "State of Terror",
+      "section": "World",
+      "byline": "By RUKMINI CALLIMACHI",
+      "type": "Article",
+      "title": "To Maintain Supply of Sex Slaves, ISIS Pushes Birth Control",
+      "abstract": "Modern methods allow the Islamic State to keep up its systematic rape of captives under medieval codes.",
+      "published_date": "2016-03-13",
+      "source": "The New York Times",
+      "id": 100000004235849,
+      "asset_id": 100000004235849,
+      "views": 3,
+      "des_facet": [
+        "HUMAN TRAFFICKING",
+        "PREGNANCY AND CHILDBIRTH",
+        "WOMEN AND GIRLS"
+      ],
+      "org_facet": [
+        "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "IRAQ",
+        "SYRIA",
+        "TAL AFAR (IRAQ)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "M., who was kidnapped and sold into sexual slavery and raped repeatedly by fighters with the Islamic State, wept as she prepared to leave for Germany in January under a resettlement program. She was in a camp for internally displaced Yazidis near Dohuk, Iraq.",
+          "copyright": "Lynsey Addario for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-articleInline.jpg",
+              "format": "Normal",
+              "height": 131,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 707,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1414,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/world/13isispregnancy-web7/13isispregnancy-web7-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/12/opinion/trump-clarifies-and-its-worse.html",
+      "adx_keywords": "Republican Party;Presidential Election of 2016;Debates (Political)",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By GAIL COLLINS",
+      "type": "Article",
+      "title": "Trump Clarifies, and It’s Worse",
+      "abstract": "If you want to fix the system, hire someone who already exploits it.",
+      "published_date": "2016-03-12",
+      "source": "The New York Times",
+      "id": 100000004264798,
+      "asset_id": 100000004264798,
+      "views": 4,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "DEBATES (POLITICAL)"
+      ],
+      "org_facet": [
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump at the Republican debate on Thursday.",
+          "copyright": "Todd Heisler/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/opinion/12collins-pic/12collins-pic-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/interactive/2016/us/elections/primary-calendar-and-results.html",
+      "adx_keywords": "",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By WILSON ANDREWS, KITTY BENNETT and ALICIA PARLAPIANO",
+      "type": "Interactive",
+      "title": "2016 Primary Results and Calendar",
+      "abstract": "The 2016 primaries and caucuses have begun. See results and upcoming primary dates.",
+      "published_date": "2016-03-12",
+      "source": "The New York Times",
+      "id": 100000003627564,
+      "asset_id": 100000003627564,
+      "views": 5,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "ELECTIONS",
+        "PRIMARIES AND CAUCUSES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-square320-v9.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-thumbStandard-v9.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-articleInline-v8.png",
+              "format": "Normal",
+              "height": 142,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-sfSpan-v9.png",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-jumbo-v8.png",
+              "format": "Jumbo",
+              "height": 704,
+              "width": 940
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-superJumbo-v8.png",
+              "format": "superJumbo",
+              "height": 704,
+              "width": 940
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-thumbLarge-v9.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-mediumThreeByTwo210-v9.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2015/04/14/us/elections/primary-calendar-and-results-1429026715315/primary-calendar-and-results-1429026715315-mediumThreeByTwo440-v9.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/politics/first-draft/2016/03/11/marco-rubio-campaign-urges-supporters-to-back-john-kasich-in-ohio/",
+      "adx_keywords": "CNN; Cruz, Ted; Florida; Kasich, John R; Ohio; Presidential Election of 2016; Republican Party; Rubio, Marco; Trump, Donald J",
+      "column": "First Draft",
+      "section": "U.S.",
+      "byline": "By MAGGIE HABERMAN and JEREMY W. PETERS",
+      "type": "Blog",
+      "title": "Marco Rubio Aide Urges Supporters to Back John Kasich in Ohio",
+      "abstract": "A top aide to Senator Marco Rubio urged his supporters in Ohio to support Gov. John Kasich in that state&#8217;s primary, giving fresh momentum to efforts to stop Donald J. Trump a day after a debate in which his rivals declined to take a swing at the leading Republican presidential candidate.",
+      "published_date": "2016-03-11",
+      "source": "The New York Times",
+      "id": 343,
+      "asset_id": 343,
+      "views": 6,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "CNN",
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": [
+        "CRUZ, TED",
+        "KASICH, JOHN R",
+        "RUBIO, MARCO",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "FLORIDA",
+        "OHIO"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Marco Rubio campaigned at a synagogue in West Palm Beach, Fla., on Friday.",
+          "copyright": "Eric Thayer for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/11FIRSTDRAFT-rubio/11FIRSTDRAFT-rubio-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/11/fashion/state-dinner-canada-sophie-trudeau.html",
+      "adx_keywords": "Fashion and Apparel;Gregoire-Trudeau, Sophie;Obama, Michelle",
+      "column": "On the Runway",
+      "section": "Fashion & Style",
+      "byline": "By VANESSA FRIEDMAN",
+      "type": "Article",
+      "title": "State Dinner Becomes a Catwalk for Canadian Style",
+      "abstract": "Both Sophie Grégoire Trudeau and Michelle Obama chose gowns created by the country’s designers.",
+      "published_date": "2016-03-13",
+      "source": "The New York Times",
+      "id": 100000004265969,
+      "asset_id": 100000004265969,
+      "views": 7,
+      "des_facet": [
+        "FASHION AND APPAREL"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "GREGOIRE-TRUDEAU, SOPHIE",
+        "OBAMA, MICHELLE"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jacquelyn Martin/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-square320-v3.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-square640-v3.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-thumbLarge-v3.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/nytnow/11OTR/11OTR-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/13/business/media/shari-redstone-prepares-for-battle-to-control-a-media-empire.html",
+      "adx_keywords": "Television;Movies;CBS Corporation;National Amusements Inc;Viacom Inc;Redstone, Shari;Redstone, Sumner M",
+      "column": "",
+      "section": "Business Day",
+      "byline": "By EMILY STEEL",
+      "type": "Article",
+      "title": "Shari Redstone Prepares for Battle to Control a Media Empire",
+      "abstract": "Ms. Redstone says she has patched up her relationship with her media mogul father as a legal battle looms over money and power in the family business.",
+      "published_date": "2016-03-13",
+      "source": "The New York Times",
+      "id": 100000004256290,
+      "asset_id": 100000004256290,
+      "views": 8,
+      "des_facet": [
+        "TELEVISION",
+        "MOVIES"
+      ],
+      "org_facet": [
+        "CBS CORPORATION",
+        "NATIONAL AMUSEMENTS INC",
+        "VIACOM INC"
+      ],
+      "per_facet": [
+        "REDSTONE, SHARI",
+        "REDSTONE, SUMNER M"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“My life is really good,” Shari Redstone, the media mogul Sumner Redstone’s daughter, said during a rare interview recently. “It is a dream life,” she said, “except for the part that is not a dream life.”",
+          "copyright": "Ryan Stone for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-articleInline.jpg",
+              "format": "Normal",
+              "height": 285,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 683
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1366
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/business/13shari-top/13shari-top-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/13/us/politics/a-texas-candidate-mary-lou-bruner-pushes-the-boundary-of-the-far-right.html",
+      "adx_keywords": "Mary Lou Bruner;Texas;Republican Party;Education (K-12)",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MANNY FERNANDEZ",
+      "type": "Article",
+      "title": "A Texas Candidate Pushes the Boundary of the Far Right",
+      "abstract": "Mary Lou Bruner, who is running for a Texas Board of Education seat, posted on Facebook that “a reliable source” had told her President Obama was once a prostitute.",
+      "published_date": "2016-03-13",
+      "source": "The New York Times",
+      "id": 100000004266510,
+      "asset_id": 100000004266510,
+      "views": 9,
+      "des_facet": [
+        "EDUCATION (K-12)"
+      ],
+      "org_facet": [
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": [
+        "MARY LOU BRUNER"
+      ],
+      "geo_facet": [
+        "TEXAS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anthony Bruner and Mary Lou Bruner at a Texas State Board of Education meeting in 2010.",
+          "copyright": "Jay Janner/Austin American-Statesman, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-articleInline.jpg",
+              "format": "Normal",
+              "height": 134,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 720,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1439,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/us/13textbook1-web/13textbook1-web-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/interactive/2016/03/10/magazine/25-songs-that-tell-us-where-music-is-going.html",
+      "adx_keywords": "",
+      "column": "The Music Issue",
+      "section": "Magazine",
+      "byline": "By THE NEW YORK TIMES MAGAZINE",
+      "type": "Interactive",
+      "title": "25 Songs That Tell Us Where Music Is Going",
+      "abstract": "A playlist by the writers Marlon James, Jenna Wortham, George Saunders, Wesley Morris, Mary H. K. Choi and others.",
+      "published_date": "2016-03-10",
+      "source": "The New York Times",
+      "id": 100000004243544,
+      "asset_id": 100000004243544,
+      "views": 10,
+      "des_facet": [
+        "MUSIC"
+      ],
+      "org_facet": [
+        "WILCO (MUSIC GROUP)",
+        "COLDPLAY (MUSIC GROUP)"
+      ],
+      "per_facet": [
+        "BIEBER, JUSTIN",
+        "RIHANNA",
+        "BOWIE, DAVID"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-square320.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-articleInline.png",
+              "format": "Normal",
+              "height": 124,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-sfSpan.png",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-jumbo.png",
+              "format": "Jumbo",
+              "height": 668,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-superJumbo.png",
+              "format": "superJumbo",
+              "height": 1120,
+              "width": 1718
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-thumbLarge.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/magazine/13mag-music-promo/13mag-music-promo-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/interactive/2016/03/11/us/elections/what-parties-debate-or-ignore.html",
+      "adx_keywords": "",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By JOSH KELLER and KAREN YOURISH",
+      "type": "Interactive",
+      "title": "Which Issues Each Party Debates, or Ignores",
+      "abstract": "Democrats and Republicans sometimes seem to be living in two different Americas. We analyzed the past seven debates on each side to show which topics are most discussed within each party.",
+      "published_date": "2016-03-11",
+      "source": "The New York Times",
+      "id": 100000004265657,
+      "asset_id": 100000004265657,
+      "views": 11,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "DEBATES (POLITICAL)"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "SANDERS, BERNARD",
+        "CLINTON, HILLARY RODHAM",
+        "KASICH, JOHN R",
+        "RUBIO, MARCO",
+        "TRUMP, DONALD J",
+        "CRUZ, TED"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-square320.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-articleInline.png",
+              "format": "Normal",
+              "height": 144,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-sfSpan.png",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-jumbo.png",
+              "format": "Jumbo",
+              "height": 776,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-superJumbo.png",
+              "format": "superJumbo",
+              "height": 874,
+              "width": 1154
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-square640.png",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-thumbLarge.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/elections/what-parties-debate-or-ignore-1457671003943/what-parties-debate-or-ignore-1457671003943-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/13/opinion/sunday/the-superior-social-skills-of-bilinguals.html",
+      "adx_keywords": "Children and Childhood;Language and Languages;Psychology and Psychologists;Research",
+      "column": "Gray Matter",
+      "section": "Opinion",
+      "byline": "By KATHERINE KINZLER",
+      "type": "Article",
+      "title": "The Superior Social Skills of Bilinguals",
+      "abstract": "Yet another benefit to speaking multiple languages.",
+      "published_date": "2016-03-13",
+      "source": "The New York Times",
+      "id": 100000004262040,
+      "asset_id": 100000004262040,
+      "views": 12,
+      "des_facet": [
+        "CHILDREN AND CHILDHOOD",
+        "LANGUAGE AND LANGUAGES",
+        "PSYCHOLOGY AND PSYCHOLOGISTS",
+        "RESEARCH"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gérard DuBois",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-articleInline.jpg",
+              "format": "Normal",
+              "height": 205,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 917
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1805,
+              "width": 1615
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/sunday/13gray/13gray-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/12/us/politics/donald-trump-trump-university.html",
+      "adx_keywords": "Trump, Donald J;Trump Entrepreneur Initiative;Suits and Litigation (Civil);Presidential Election of 2016;For-Profit Schools;Colleges and Universities",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MICHAEL BARBARO and STEVE EDER",
+      "type": "Article",
+      "title": "At Trump University, Students Recall Pressure to Give Positive Reviews",
+      "abstract": "Ex-students say coercive tactics were used to elicit glowing marks for Donald J. Trump’s real estate classes in evaluations he is now using against them.",
+      "published_date": "2016-03-12",
+      "source": "The New York Times",
+      "id": 100000004264654,
+      "asset_id": 100000004264654,
+      "views": 13,
+      "des_facet": [
+        "SUITS AND LITIGATION (CIVIL)",
+        "PRESIDENTIAL ELECTION OF 2016",
+        "FOR-PROFIT SCHOOLS",
+        "COLLEGES AND UNIVERSITIES"
+      ],
+      "org_facet": [
+        "TRUMP ENTREPRENEUR INITIATIVE"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robert Guillo at his home in Manhasset, N.Y. He spent $36,000 on Trump University classes and later requested a refund. “It’s absolutely a con,” he said of the classes.",
+          "copyright": "Andrew Renneisen for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11TRUMPUweb1/11TRUMPUweb1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/11/opinion/campaign-stops/what-are-trump-fans-really-afraid-to-say.html",
+      "adx_keywords": "Trump, Donald J;Presidential Election of 2016;Voting and Voters;Discrimination",
+      "column": "Op-Ed Contributor",
+      "section": "Opinion",
+      "byline": "By LINDY WEST",
+      "type": "Article",
+      "title": "What Are Trump Fans Really ‘Afraid’ to Say?",
+      "abstract": "Glance at your worst relative’s Facebook page. No one really holds back.",
+      "published_date": "2016-03-11",
+      "source": "The New York Times",
+      "id": 100000004263965,
+      "asset_id": 100000004263965,
+      "views": 14,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "VOTING AND VOTERS",
+        "DISCRIMINATION"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trump supporters at a rally in North Carolina on Wednesday.",
+          "copyright": "Travis Dove for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 682,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/opinion/11westWeb/11westWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/12/us/politics/nancy-reagan-funeral.html",
+      "adx_keywords": "Funerals and Memorials;First Ladies (US);Reagan, Nancy;Reagan, Ronald Wilson",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ALESSANDRA STANLEY",
+      "type": "Article",
+      "title": "At Nancy Reagan’s Funeral, Honoring the Queen of a Republican Camelot",
+      "abstract": "Mourners pay tribute to the former first lady and guardian of President Ronald Reagan, and say goodbye to an era, at her funeral in California.",
+      "published_date": "2016-03-12",
+      "source": "The New York Times",
+      "id": 100000004266369,
+      "asset_id": 100000004266369,
+      "views": 15,
+      "des_facet": [
+        "FIRST LADIES (US)"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "REAGAN, NANCY",
+        "REAGAN, RONALD WILSON"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ron Reagan, the son of Nancy Reagan, touched his mother’s coffin before speaking at her funeral at the Ronald Reagan Presidential Library in Simi Valley, Calif., on Friday.",
+          "copyright": "Jim Wilson/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12reagan-web2/12reagan-web2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/13/opinion/sunday/my-fathers-killers-funeral.html",
+      "adx_keywords": "Pakistan;Qadri, Malik Mumtaz Hussain;Muslims and Islam;Terrorism;Murders, Attempted Murders and Homicides",
+      "column": "Op-Ed | Aatish Taseer",
+      "section": "Opinion",
+      "byline": "By AATISH TASEER",
+      "type": "Article",
+      "title": "My Father’s Killer’s Funeral",
+      "abstract": "Tens of thousands turned out in the streets of Pakistan to mourn the radical Islamist who assassinated my father.",
+      "published_date": "2016-03-13",
+      "source": "The New York Times",
+      "id": 100000004264880,
+      "asset_id": 100000004264880,
+      "views": 16,
+      "des_facet": [
+        "MUSLIMS AND ISLAM",
+        "TERRORISM",
+        "MURDERS, ATTEMPTED MURDERS AND HOMICIDES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "QADRI, MALIK MUMTAZ HUSSAIN"
+      ],
+      "geo_facet": [
+        "PAKISTAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People surrounded the ambulance carrying the body of Malik Mumtaz Hussain Qadri in Rawalpindi, Pakistan.",
+          "copyright": "Faisal Mahmood/Reuters",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-articleInline-v3.jpg",
+              "format": "Normal",
+              "height": 120,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 674,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1348,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/13/opinion/13taseer-img/13taseer-img-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/13/upshot/the-geography-of-trumpism.html",
+      "adx_keywords": "Presidential Election of 2016;Trump, Donald J;Race and Ethnicity;Unemployment;Census;Population;United States Economy;Labor and Jobs",
+      "column": "The Upshot",
+      "section": "The Upshot",
+      "byline": "By NEIL IRWIN and JOSH KATZ",
+      "type": "Article",
+      "title": "The Geography of Trumpism",
+      "abstract": "A look at the counties that have a high level of support for Donald Trump shows the factors that predict his popularity.",
+      "published_date": "2016-03-13",
+      "source": "The New York Times",
+      "id": 100000004263017,
+      "asset_id": 100000004263017,
+      "views": 17,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "UNITED STATES ECONOMY",
+        "LABOR AND JOBS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald Trump at Lakefront Airport in New Orleans last week.",
+          "copyright": "Edmund D. Fountain for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/upshot/11UP-Trumpography/11UP-Trumpography-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/2016/03/12/us/daylight-saving-time-farmers.html",
+      "adx_keywords": "Daylight Saving Time;United States;Agriculture and Farming",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By DANIEL VICTOR",
+      "type": "Article",
+      "title": "Daylight Saving Time: Why Does It Exist? (It’s Not for Farming)",
+      "abstract": "We’re springing forward again. But why? Common beliefs about the shift aren’t grounded in fact.",
+      "published_date": "2016-03-12",
+      "source": "The New York Times",
+      "id": 100000004264968,
+      "asset_id": 100000004264968,
+      "views": 18,
+      "des_facet": [
+        "DAYLIGHT SAVING TIME",
+        "AGRICULTURE AND FARMING"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sunrise at Cape Porpoise Harbor in Kennebunkport, Me. Some anti-federalists are opposed to daylight saving time, considering it unnecessary government intervention.",
+          "copyright": "Robert F. Bukaty/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-square320-v3.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-articleInline.jpg",
+              "format": "Normal",
+              "height": 109,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 585,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1170,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-square640-v3.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-thumbLarge-v3.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/11/us/11daylight_xp/11daylight_xp-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/politics/first-draft/2016/03/11/ben-carson-endorses-donald-trump-saying-we-buried-the-hatchet/",
+      "adx_keywords": "Carson, Benjamin S; Cruz, Ted; Evangelical Movement; Palm Beach (Fla); Presidential Election of 2016; Republican Party; Trump, Donald J",
+      "column": "First Draft",
+      "section": "U.S.",
+      "byline": "By ASHLEY PARKER",
+      "type": "Blog",
+      "title": "Ben Carson Endorses Donald Trump, Saying &#8216;We Buried the Hatchet&#8217;",
+      "abstract": "Ben Carson, the retired pediatric neurosurgeon who ended his own presidential bid last week, endorsed Donald J. Trump at Mar-a-Lago, Mr. Trump&#8217;s club in Florida. Asked about Mr. Trump&#8217;s past criticism of him, Mr. Carson said, &#8220;We buried the hatchet &#8212; that was political stuff.&#8221;",
+      "published_date": "2016-03-11",
+      "source": "The New York Times",
+      "id": 343,
+      "asset_id": 343,
+      "views": 19,
+      "des_facet": [
+        "EVANGELICAL MOVEMENT",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": [
+        "CARSON, BENJAMIN S",
+        "CRUZ, TED",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "PALM BEACH (FLA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ben Carson gave his backing to Donald J. Trump at a news conference in Florida on Friday.",
+          "copyright": "Todd Heisler/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/12carson3/12carson3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://www.nytimes.com/politics/first-draft/2016/03/12/security-forms-ring-around-donald-trump-after-disruption-at-ohio-rally/",
+      "adx_keywords": "Demonstrations, Protests and Riots; Presidential Election of 2016; Trump, Donald J",
+      "column": "First Draft",
+      "section": "U.S.",
+      "byline": "By MAGGIE HABERMAN",
+      "type": "Blog",
+      "title": "Security Forms Ring Around Donald Trump After Disruption at Ohio Rally",
+      "abstract": "A security officer and Secret Service agents briefly formed a ring around Donald J. Trump during an unspecified disturbance at his rally in Dayton, Ohio, on Saturday.",
+      "published_date": "2016-03-12",
+      "source": "The New York Times",
+      "id": 343,
+      "asset_id": 343,
+      "views": 20,
+      "des_facet": [
+        "DEMONSTRATIONS, PROTESTS AND RIOTS",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secret Service agents surrounded Donald J. Trump after a disturbance during a rally on Saturday in Dayton, Ohio.",
+          "copyright": "Victor J. Blue for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "http://static01.nyt.com/images/2016/03/12/us/trump-firstdraft02/trump-firstdraft02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
